@@ -2639,6 +2639,13 @@ h6 {
     }
 }
 
+@media (max-width: 380px) {
+    .footer__body {
+        align-items: center;
+        gap: 0.625rem;
+    }
+}
+
 .footer__info {
     display: grid;
 }
